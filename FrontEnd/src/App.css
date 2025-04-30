@@ -1,0 +1,37 @@
+.App {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.blog-card {
+  border: 1px solid #ddd;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+}
+
+.blog-content {
+  line-height: 1.6;
+  margin: 20px 0;
+  white-space: pre-line;
+}
+
+.comment {
+  background-color: #333333;
+  padding: 10px;
+  margin: 10px 0;
+  border-radius: 4px;
+  border-color: #646cff;
+  border-width: thin;
+  border-style: solid;
+}
+.comment > p {
+  color: white;
+}
+
+.comment-date {
+  font-size: 0.8rem;
+  text-align: right;
+}
