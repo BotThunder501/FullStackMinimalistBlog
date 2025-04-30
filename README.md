@@ -32,7 +32,7 @@ The site cannot create posts/edit/delete posts. Only created to satisfy the user
 
 I will show images showing how the website works.
 
-![BlogPostList](assets/blogpostlist.gif)
+![BlogPostList](assets/Fulldetails.gif)
 
 ![BlogPostDetails](assets/BlogPostDetails.png)
 
